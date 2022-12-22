@@ -1,0 +1,16 @@
+.timer-container {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.timer {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-around;
+}
